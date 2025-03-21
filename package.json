@@ -2,7 +2,7 @@
   "name": "portfolio-website",
   "version": "1.0.0",
   "description": "A personal portfolio website to showcase projects, skills, and contact information.",
-  "homepage": "https://tuusuario.github.io/portfolio-website",
+  "homepage": "https://Damagasnake.github.io/portfolio-website",
   "main": "src/index.html",
   "scripts": {
     "start": "react-scripts start",
