@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Nombre de tu proyecto real",
+        "description": "Descripción real de tu proyecto",
+        "repository": "https://github.com/tuusuario/tu-proyecto",
+        "liveDemo": "https://tuusuario.github.io/tu-proyecto",
+        "image": "ruta a tu imagen real o URL",
+        "technologies": ["Las", "tecnologías", "que", "usaste"],
+        "categories": ["categoría"]
+    },
+    {
+        "title": "Nombre de tu proyecto real",
+        "description": "Descripción real de tu proyecto",
+        "repository": "https://github.com/tuusuario/tu-proyecto",
+        "liveDemo": "https://tuusuario.github.io/tu-proyecto",
+        "image": "ruta a tu imagen real o URL",
+        "technologies": ["Las", "tecnologías", "que", "usaste"],
+        "categories": ["categoría"]
+    },
+    {
+        "title": "Nombre de tu proyecto real",
+        "description": "Descripción real de tu proyecto",
+        "repository": "https://github.com/tuusuario/tu-proyecto",
+        "liveDemo": "https://tuusuario.github.io/tu-proyecto",
+        "image": "ruta a tu imagen real o URL",
+        "technologies": ["Las", "tecnologías", "que", "usaste"],
+        "categories": ["categoría"]
+    }
+]
